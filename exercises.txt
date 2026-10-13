@@ -1,0 +1,3 @@
+bench press|pecs, delts, triceps|barbell|midrange|bilateral|scapular depression, shoulder flexion, shoulder adduction
+back squat|quads, glutes, hamstrings|barbell|midrange|bilateral|scapular upward rotation, hip extension, knee extension, plantar flexion
+high cable curl|biceps, brachioradialis|cable|shortened|unilateral|scapular upward rotation, elbow flexion
